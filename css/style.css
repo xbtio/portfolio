@@ -57,12 +57,12 @@ button:hover {
 
 .greetings::before {
     content: "hi";
-    animation: animate infinite 10s;
+    animation: animate infinite 8s;
 }
 
 @keyframes animate {
   
-    0% {
+    25% {
         content: "salem";
     }
 
