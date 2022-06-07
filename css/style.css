@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Memphis';
+    font-family: 'IBM';
     src: url(../fonts/IBMPlexMono-ExtraLight.ttf);
 }
 
 body {
-    font-family: 'Memphis';
+    font-family: 'IBM';
     color: #fff;
     background: #000;
     display: flex;
